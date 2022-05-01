@@ -2,5 +2,7 @@
 /* tslint:disable */
 /* eslint-disable */
 export type { Greeter } from "./Greeter";
+export type { SimpleToken } from "./SimpleToken";
 export * as factories from "./factories";
 export { Greeter__factory } from "./factories/Greeter__factory";
+export { SimpleToken__factory } from "./factories/SimpleToken__factory";
