@@ -1,3 +1,9 @@
+# DO NOT USE THIS REPOSITORY!
+
+This is a bit of personal-use code I wrote ages ago. It uses a very
+old package.json which refers to packages with numerous security
+flaws, and has a number of problems with hosting ethers in-browser.
+
 # Sample solidity code
 
 solidity/ contains a sample cloned from solidity-template (not sure this was a good idea, but it's how I started).
